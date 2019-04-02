@@ -4,10 +4,10 @@
 
 ---
 
-- it can be used :smile: 
+- it can be used 
 - hi  
 - commit  
-
+- dev branch commit
 --- 
  
 <img src="https://i.imgur.com/XgbZdeA.jpg" alt="dog">
