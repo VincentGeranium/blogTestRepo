@@ -8,7 +8,9 @@
 - hi  
 - commit  
 
----
+--- 
+ 
+<img src: "https://i.imgur.com/XgbZdeA.jpg" alt = "dog">
 
 공부한 내용을 정리하며 좀 더 잘 이해하고 기억할 수 있어요.
 내가 정리한 글로 다른 사람에게 도움을 줄 수 있어요.
